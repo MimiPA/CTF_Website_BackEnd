@@ -1,0 +1,25 @@
+1. 
+			$point 		='100';		ATL2021{W3b_w!th0Vt_C5S_IS_bORlNG}
+			$judulSoal	='The Detective';
+			$hint		='Find The Important Clue And Find The Flag , 3 part Flag of 3 side Website then Combine all <a style="color:white; background:none ; font-size:10px;"href="https://ctfwebsitefreehosting.000webhostapp.com/Soal1WEB/SoalWebExploitan.html">link</a>!!';
+
+
+2. 	POINT 100    		= 		ATL2021{c0rrupt10n_1847995}
+	judul 	= " Broken File !! "
+	Hint 	= " Sesuatu sudah terjadi dengan File ini , Bantulah Mr.ARi mendapatkannya kembali <a style="color:white; background:none ; font-size:10px;" href="https://ctfwebsitefreehosting.000webhostapp.com/Soal1WEB/c0rrupt.txt ">link</a>!!
+
+3. 	Point 100	= 	ATL2021{rehpicraseac} 	
+	jUDUL	= " DWO2021{uhkslfudvhdf} "
+	hINT 	= " "https://privacycanada.net/classical-encryption/caesar-cipher/" "
+
+4. 	Point 100 			ATL2021{4tm4j4y4} 
+	Jdul 		" Apa arti dari 34 74 6d 34 6a 34 79 34 ? "
+	Hintt 			" Format jawaban ATL2021{} "
+
+5. 	Point 100		ATL2021{numbersequalsalphabet} 
+	Judul 		" tH3 nUMB3Rs  <a style="color:white; background:none ; font-size:10px;" href="https://ctfwebsitefreehosting.000webhostapp.com/Soal1WEB/th3%20numb3r5%20(kripto).jpg">link</a>
+
+6. 	Point 100 	ATL2021{b1n4ry_1s_fun}
+	Soal 	" 01000001 01010100 01001100 00110010 00110000 00110010 00110001 01111011 01100010 00110001 01101110 00110100 01110010 01111001 01011111 00110001 01110011 01011111 01100110 01110101 01101110 01111101 "
+
+	Hint "ASCII/UTF-8 "

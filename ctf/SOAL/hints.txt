@@ -1,0 +1,17 @@
+kripto
+2. hint: ICS Flags
+3. hint: 0,1,2,3,4,5,6,7
+4. hint: kayaknya maps bisa membantu
+
+forensik
+1. hint: do u know about stegano?
+2. hint: properties mungkin bisa membantu
+3. hint: hexedit
+4. hint: focus at the blankspace !
+5. hint: merge
+
+general 
+2. hint: 64 to biner
+3. hint: MD6-1
+4. hint: base65-1
+5. hint: ROT13
